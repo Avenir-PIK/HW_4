@@ -15,7 +15,7 @@
             }
             while (dig_a < 1);
 
-            while (dig_a / 10  > 0)
+            while (dig_a / 10 > 0)
             {
                 dig_a /= 10;
                 numdig++;
