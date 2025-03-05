@@ -40,7 +40,7 @@ namespace HW_4_8
 
             Console.WriteLine("Введенное и отзеркаленное: \nВвод: {0} \nЗерк: {1} ", startdig, revdig);
 
-            Console.WriteLine("Спасибо!");
+            Console.WriteLine("\nСпасибо!");
             Console.WriteLine("\nНажмите любую клавишу для выхода");
             Console.ReadKey();
         }
