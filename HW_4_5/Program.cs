@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Вводятся целые числа a>0, b<0. Найти a^b. Не использовать класс Math");
+            Console.WriteLine("Запрашивать у пользователя число до тех пор, пока он не введет число из диапазона [20; 60]");
             double dig_a = 0;
             do
             {
